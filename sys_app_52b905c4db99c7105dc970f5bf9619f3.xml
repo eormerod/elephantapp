@@ -10,14 +10,14 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Xteam testing </name>
+        <name>Elephants in Park</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_snc_xteam_testin</scope>
+        <scope>x_snc_elephant_park</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_snc_xteam_testin</source>
+        <source>x_snc_elephant_park</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
