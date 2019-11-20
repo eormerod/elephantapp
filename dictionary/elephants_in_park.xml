@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Elephants in Park table" max_length="40" name="elephants_in_park" sizeclass="0" type="collection">
-        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element label="Happy" max_length="40" name="happy" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
     </element>
 </database>
